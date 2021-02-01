@@ -1,0 +1,323 @@
+* {
+  padding: 0;
+  margin :0;
+  font-family: sans-serif;
+
+}
+
+body{
+  width: 600px;
+  height:100px;
+  position: absolute;
+}
+
+#navbar {
+  width: 1220px;
+  height: 50px;
+  background-color: white;
+  box-shadow: 4px 8px 8px rgba(0,0,0,0.4);
+  border-top-right-radius: px;
+  border-bottom-right-radius: 60px;
+  position: relative;
+  top: 60px;
+  left: 70px;
+  z-index: 10;
+}
+
+#sosialmedia{
+  top: 60px;
+  position: absolute;
+}
+.namaweb {
+  text-decoration: none;
+  position: relative;
+  left: 60px;
+  font-size: 30px;
+  top: 10px;
+  font-size: 25px;
+  color: lightgreen;
+}
+
+.logo {
+  width: 70px;
+  position: relative;
+  bottom: 48px;
+  right: 20px;
+}
+
+.email {
+  width: 22px;
+  top: 13px;
+  position: absolute;
+  left: 1000px;
+  z-index: 22;
+}
+
+.email:hover {
+  width: 44px;
+  top: 13px;
+  position: absolute;
+  left: 1000px;
+  z-index: 22;
+}
+
+.wa {
+  width: 22px;
+  top: 13px;
+  position: absolute;
+  left: 1050px;
+  z-index: 22;
+}
+
+.wa:hover {
+  width: 44px;
+  top: 13px;
+  position: absolute;
+  left: 1050px;
+  z-index: 22;
+}
+
+.ig {
+  width: 22px;
+  top: 13px;
+  position: absolute;
+  left: 1100px;
+  z-index: 22;
+}
+
+.ig:hover {
+  width: 44px;
+  top: 13px;
+  position: absolute;
+  left: 1100px;
+  z-index: 22;
+}
+
+.fb {
+  width: 22px;
+  top: 13px;
+  position: absolute;
+  left: 1150px;
+  z-index: 22;
+}
+
+.fb:hover {
+  width: 44px;
+  top: 13px;
+  position: absolute;
+  left: 1150px;
+  z-index: 22;
+}
+
+.yt {
+  width: 28px;
+  top: 13px;
+  position: absolute;
+  left: 1200px;
+  z-index: 22;
+}
+
+.yt:hover {
+  width: 44px;
+  top: 13px;
+  position: absolute;
+  left: 1200px;
+  z-index: 22;
+}
+
+
+
+.uk-navbar-dropdown {
+  text-align: center;
+}
+
+.uk-navbar-container1 a{
+  position: absolute;
+  top: 77px;  
+  left: 520px;
+  z-index: 23;
+}
+
+
+.uk-navbar-container2{
+  position: relative;
+  top: 1px;  
+  left: 708px;
+  z-index: 23;
+}
+
+.uk-navbar-container3 {
+  position: absolute;
+  bottom: 80px;  
+  left: -100px;
+  z-index: 23;
+
+}
+
+.carousel-inner img {
+  width: 100%;
+  height: 100%
+  position:absolute;
+  right: px;
+}
+
+.uk-slideshow-item img{
+size: 1000px;
+position: relative;
+}
+
+
+.carousel {
+top: -300px;
+width: 225%;
+height:500px;
+position: absolute;
+left: 0px;
+z-index: 6;
+}
+
+
+.namatulisan {
+  width: 200px;
+  position: relative;
+  top: 80px;
+  left: 250px;
+  z-index: 10;
+}
+
+.wm {
+  width: 300px;
+  position: absolute;
+  z-index: 9;
+  top: -30px;
+  left: -40px;
+}
+
+.body3 {
+  width: 850px;
+  height: 300px;
+  position: relative;
+  top: -650px;
+  left: 500px;
+  background-color:white;
+  border-top-right-radius: px;
+  border-top-left-radius: px;
+  border-bottom-right-radius: px;
+  border-bottom-left-radius: 60px;
+  z-index: 22;
+}
+
+.animasi {
+  width: 250px;
+  position: absolute;
+  left: 600px;
+  top: px;
+}
+
+
+.animasi-1 {
+  width: 200px;
+  position: absolute;
+  left: 400px;
+  top: 100px;
+}
+
+#my{
+  width: 180px;
+  position: absolute;
+  z-index: 22;
+  top: 520px;
+  left: 100px;
+  border-top-right-radius: 90px;
+  border-top-left-radius: 90px;
+  border-bottom-right-radius: 90px;
+  border-bottom-left-radius: 90px;
+
+}
+
+#my:hover{
+  width: 250px;
+  position: absolute;
+  z-index: 15;
+  top: 490px;
+  left: 40px;
+}
+
+.kata {
+  font-family: sans-serif;
+  font-size: 25px;
+  width: 800px;
+  text-align: ;
+  position: absolute;
+  z-index: 15;
+  left: 350px;
+  top:620px;
+}
+
+.bg-kata {
+  width: 1120px;
+  height: 180px;
+  position: absolute;
+  background-color: white;
+  top: 580px;
+  z-index: 14;
+  left: 120px;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+  box-shadow: 1px 1px 10px rgba(0,0,0,0.4);
+}
+
+.kutip {
+  width: 30px;
+  top: 604px;
+  position: absolute;
+  z-index: 15;
+  left: 300px;
+}
+
+.motivasi {
+  position: absolute;
+  top: 710px;
+  z-index: 15;
+  left: 1000px;
+  text-decoration: none;
+  color: black;
+  width: 200px;
+}
+
+#walpaper {
+  width: 225%;
+  position: absolute;
+  top: 700px;
+}
+
+.fixed {
+  position: fixed;
+  height: 80px;
+  top: -5px;
+  width: 100%;
+  z-index:5;
+  background-color: #402DFF;
+  box-shadow: 1px 1px 10px rgba(0,0,0,0.4);
+   border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+
+}
+.kalimat-nav {
+  position: fixed;
+  font-size: 40px;
+  top: 6px;
+  left: 390px;
+  color: white;
+  text-decoration: none;
+}
+
+.body-baru {
+  position: absolute;
+  width: 225%;
+  height :900px;
+  background-color: white;
+  top: 680px;
+}
